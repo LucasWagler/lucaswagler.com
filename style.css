@@ -1,0 +1,29 @@
+html {
+    /*
+    BACKGROUND
+    */
+    background: url(img/background.jpeg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    resize: both;
+    overflow: scroll;
+}
+body {
+    font-family: 'verdana';
+    color:whitesmoke;
+    text-align: center;
+}
+.title {
+    /*
+    includes:
+     name
+    */
+    font-family: 'Didact Gothic', sans-serif;
+    color: white
+}
+#profilepic {
+    border-radius:50%;
+    height: 15em;
+    border: 3px solid whitesmoke;
+}
